@@ -28,7 +28,7 @@ Cinema App follows a standard project structure for Spring-based applications. H
 
 - `resources`: This directory contains the `db.properties` file, that has the database configuration.
 
-### 💻 Current project functionality:
+### Current project functionality:
 Here is the list of all endpoints with role required for access and their short description:
 - GET: /cinema-halls - (user/admin) - get a list of all cinema halls.
 - GET: /movies - (user/admin) - get a list of all movies.
@@ -48,34 +48,24 @@ Here is the list of all endpoints with role required for access and their short 
 
 As you can see above this app has two roles: user and admin. User role is assigned automatically to every new user created.  
 
-## Technologies 💻
+## Technologies & Requirements 🎥
 Cinema App was built using the following technologies and patterns:
 
-- Java 17, MySQL, Tomcat, Maven
+- IDE
+- Java 17, MySQL, Tomcat v.9.0.5, Maven
 - Spring Web MVC, Spring Security, Hibernate
 - OOP, SOLID, CRUD
-
-## Requirements 🛠️
-
-To run and work with this app, you will need the following tools:
-
-- IDE
-- Tomcat v.9.0.5
-- MySQL
 - Postman
 
-## Installation 🚀
+## Installation 💻
 
 Here are the steps to run this app locally:
 
-1. Install JDK.
-2. Clone this repository and open it locally.
-3. Add all the required configurations to db.properties file.
-4. Install Tomcat.
-5. Run the app.
-6. Check which links and methods are available in [Readme.md](README.md) (functionality).
-7. Connection established! 🎉
-
-## Congratulations 🤝
+1. Clone this repository and open it locally.
+2. Add all the required configurations to db.properties file.
+3. Install Tomcat.
+4. Run the app.
+5. Check which links and methods are available in [Readme.md](README.md) (functionality).
+6. Connection established! 🎉
 
 If you'd like to fork this project, feel free to use it in your own.
