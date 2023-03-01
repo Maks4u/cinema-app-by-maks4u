@@ -57,15 +57,4 @@ Cinema App was built using the following technologies and patterns:
 - OOP, SOLID, CRUD
 - Postman
 
-## Installation 💻
-
-Here are the steps to run this app locally:
-
-1. Clone this repository and open it locally.
-2. Add all the required configurations to db.properties file.
-3. Install Tomcat.
-4. Run the app.
-5. Check which links and methods are available in [Readme.md](README.md) (functionality).
-6. Connection established! 🎉
-
 If you'd like to fork this project, feel free to use it in your own.
