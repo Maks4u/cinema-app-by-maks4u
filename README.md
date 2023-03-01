@@ -48,13 +48,22 @@ Here is the list of all endpoints with role required for access and their short 
 
 As you can see above this app has two roles: user and admin. User role is assigned automatically to every new user created.  
 
-## Technologies & Requirements 🎥
+## Technologies & Patterns 🎥
 Cinema App was built using the following technologies and patterns:
 
-- IDE
 - Java 17, MySQL, Tomcat v.9.0.5, Maven
 - Spring Web MVC, Spring Security, Hibernate
-- OOP, SOLID, CRUD
-- Postman
+- OOP, SOLID
+
+## Installation 💻
+
+Here are the steps to run this app locally:
+
+1. Clone this repository and open it locally.
+2. Add all the required configurations to db.properties file.
+3. Install Tomcat.
+4. Run the app.
+5. Check which links and methods are available in [Readme.md](README.md) (functionality).
+6. Connection established! 🎉
 
 If you'd like to fork this project, feel free to use it in your own.
